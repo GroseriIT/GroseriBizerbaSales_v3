@@ -1,5 +1,4 @@
 # BizerbaSales – Teknik Readme
-**Revizyon:** 2025-08-28 07:56
 
 Bu proje, **Bizerba terazilerinden** (ve/veya kasalarından) gelen **satış/veri** akışını alıp kurumsal POS/ERP veritabanlarına aktarmayı, tutarlılık kontrolü yapmayı ve hataları loglamayı amaçlayan bir **Windows tabanlı** (servis/konsol) .NET uygulamasıdır.
 
@@ -155,6 +154,7 @@ BizerbaSales_v3/README.md
                     }
                 </style>
             </head>
+
             <body>`
 
 **İşlenen uzantılar:** (belirsiz)
