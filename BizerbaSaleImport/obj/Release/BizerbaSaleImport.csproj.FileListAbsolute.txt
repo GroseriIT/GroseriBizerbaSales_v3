@@ -1,0 +1,17 @@
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleImport\bin\Release\BizerbaSaleImport.exe.config
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleImport\bin\Release\BizerbaSaleImport.exe
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleImport\bin\Release\BizerbaSaleImport.pdb
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleImport\obj\Release\BizerbaSaleImport.csproj.AssemblyReference.cache
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleImport\obj\Release\BizerbaSaleImport.csproj.CoreCompileInputs.cache
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleImport\obj\Release\BizerbaSaleImport.exe
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleImport\obj\Release\BizerbaSaleImport.pdb
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\bin\Release\GroseriBizerbaSaleImport.exe.config
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\bin\Release\GroseriBizerbaSaleImport.exe
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\bin\Release\GroseriBizerbaSaleImport.pdb
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\bin\Release\GroseriServices.dll
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\bin\Release\GroseriServices.pdb
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\obj\Release\BizerbaSaleImport.csproj.AssemblyReference.cache
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\obj\Release\BizerbaSaleImport.csproj.CoreCompileInputs.cache
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\obj\Release\BizerbaS.39A8FE2C.Up2Date
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\obj\Release\GroseriBizerbaSaleImport.exe
+E:\Servisler\BizerbaSales_v3\BizerbaSaleImport\obj\Release\GroseriBizerbaSaleImport.pdb

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sx_xmlfile>
+<sx_header>
+<sxxml_vers>1.0</sxxml_vers>
+<sxcom_vers>8.0</sxcom_vers>
+<sx_table>BOKA</sx_table>
+<sx_cmd>H</sx_cmd>
+<sx_id>00</sx_id>
+</sx_header>
+<sx_data>
+<sx_r>STYP1WALO1</sx_r>
+</sx_data>
+</sx_xmlfile>

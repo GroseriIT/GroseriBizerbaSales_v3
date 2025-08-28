@@ -1,0 +1,17 @@
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleControl\bin\Release\BizerbaSaleControl.exe.config
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleControl\bin\Release\BizerbaSaleControl.exe
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleControl\bin\Release\BizerbaSaleControl.pdb
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleControl\obj\Release\BizerbaSaleControl.csproj.AssemblyReference.cache
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleControl\obj\Release\BizerbaSaleControl.csproj.CoreCompileInputs.cache
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleControl\obj\Release\BizerbaSaleControl.exe
+E:\Uygulama_Projeleri\BizerbaSales_v3\BizerbaSaleControl\obj\Release\BizerbaSaleControl.pdb
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\bin\Release\GroseriBizerbaSaleControl.exe.config
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\bin\Release\GroseriBizerbaSaleControl.exe
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\bin\Release\GroseriBizerbaSaleControl.pdb
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\obj\Release\BizerbaSaleControl.csproj.AssemblyReference.cache
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\obj\Release\BizerbaSaleControl.csproj.CoreCompileInputs.cache
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\obj\Release\GroseriBizerbaSaleControl.exe
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\obj\Release\GroseriBizerbaSaleControl.pdb
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\bin\Release\GroseriServices.dll
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\bin\Release\GroseriServices.pdb
+E:\Servisler\BizerbaSales_v3\BizerbaSaleControl\obj\Release\BizerbaS.877A3F7B.Up2Date
